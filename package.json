@@ -1,0 +1,12 @@
+{
+  "name": "test-viceri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
